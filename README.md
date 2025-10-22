@@ -50,4 +50,8 @@ Each DJ entry in the JSON file follows this format:
   "description": "A Dutch prodigy known for his euphoric festival anthems...",
   "imageName": "Martin"
 }
+```
+
+https://github.com/user-attachments/assets/5c8b0a6c-19ef-4995-a1eb-25c29278441a
+
 
