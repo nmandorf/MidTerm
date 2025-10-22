@@ -30,11 +30,20 @@ Midterm_NoaMandorf/
 
 ---
 
+How It Works
+	1.	The DJ model defines the structure for each JSON entry.
+	2.	The Bundle+Decode.swift helper loads and decodes Data.json from the app bundle.
+	3.	ContentView.swift displays all DJs in a SwiftUI List.
+	4.	Each list item is a NavigationLink to DJDetailView.swift.
+	5.	DJDetailView presents the full description and a larger image.
+
+---
+
 ## Data.json Format
 
 Each DJ entry in the JSON file follows this format:
 
-json
+```json
 {
   "id": "aa32jj887hhg55",
   "name": "Martin Garrix",
@@ -42,13 +51,3 @@ json
   "imageName": "Martin"
 }
 
----
-
-## How It Works
-	1.	The DJ model defines the structure for each JSON entry.
-	2.	The Bundle+Decode.swift helper loads and decodes Data.json from the app bundle.
-	3.	ContentView.swift displays all DJs in a SwiftUI List.
-	4.	Each list item is a NavigationLink to DJDetailView.swift.
-	5.	DJDetailView presents the full description and a larger image.
-
-  
