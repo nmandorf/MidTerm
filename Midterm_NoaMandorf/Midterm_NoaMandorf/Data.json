@@ -1,0 +1,62 @@
+[
+    {
+        "id": "aa32jj887hhg55",
+        "name": "Martin Garrix",
+        "description": "A Dutch prodigy known for his euphoric festival anthems, Martin Garrix brings youthful energy and melodic emotion to every stage. His sound balances raw power and hope, creating unforgettable moments where melody meets adrenaline.",
+        "imageName": "Martin"
+    },
+    {
+        "id": "bb32jj887hhg77",
+        "name": "Avicii",
+        "description": "A legend whose music still moves millions, Avicii redefined dance music with heart and soul. His tracks blend acoustic warmth with electronic energy, turning every beat into a story of hope, unity, and timeless emotion.",
+        "imageName": "Avicii"
+    },
+    {
+        "id": "cc32jj887hhg66",
+        "name": "Armin Van Buuren",
+        "description": "A pioneer of trance and emotion, Armin van Buuren transforms sound into feeling. His music uplifts, heals, and connects, guiding listeners through journeys of light, peace, and pure euphoria across global dance floors.",
+        "imageName": "Armin"
+    },
+    {
+        "id": "dd32jj887hhg88",
+        "name": "Swedish House Mafia",
+        "description": "Icons of unity and nostalgia, Swedish House Mafia built an entire era of festival culture. Their powerful drops and emotional melodies capture togetherness and passion, reminding fans why dance music feels like home.",
+        "imageName": "SHM"
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "John Summit",
+        "description": "The Chicago-born house hero bringing groove, attitude, and humor to every set. John Summit blends underground energy with mainstage confidence, creating music that feels alive, spontaneous, and full of freedom.",
+        "imageName": "John"
+    },
+    {
+        "id": "ff32jj887hhg99",
+        "name": "Timmy Trumpet",
+        "description": "A high-energy showman who turns chaos into celebration, Timmy Trumpet fuses live performance with explosive electronic drops. His signature trumpet and fearless style bring pure festival madness and joy to the crowd.",
+        "imageName": "Timmy"
+    },
+    {
+        "id": "gg32jj887hhg99",
+        "name": "Zedd",
+        "description": "Zedd crafts electronic masterpieces that merge precision with heart. Known for cinematic melodies and pristine sound design, he bridges pop and EDM to create moments that feel both powerful and deeply human.",
+        "imageName": "Zedd"
+    },
+    {
+        "id": "hh32jj887hhg99",
+        "name": "Skrillex",
+        "description": "A creative rebel who redefined what electronic music could be, Skrillex blends innovation, bass, and emotion into a sound uniquely his own. Every track he creates pushes boundaries and rewrites the rules of rhythm.",
+        "imageName": "Skrillex"
+    },
+    {
+        "id": "ii32jj887hhg99",
+        "name": "David Guetta",
+        "description": "The architect of modern EDM, David Guetta shaped the bridge between pop and dance. His infectious sound, massive hits, and endless creativity have made him one of the most influential figures in electronic music history.",
+        "imageName": "David"
+    },
+    {
+        "id": "jj32jj887hhg99",
+        "name": "AFROJACK",
+        "description": "A towering presence in electronic music, Afrojack delivers pure mainstage power with every drop. His bold electro-house sound, contagious energy, and unstoppable drive make him a cornerstone of festival culture.",
+        "imageName": "Afrojack"
+    }
+]
